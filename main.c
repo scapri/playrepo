@@ -2,6 +2,6 @@
 
 main()
 {
-   printf("version 1\n");
-   printf("changed code\n");
+   printf("version 10 - release code\n");
+   printf("for the pr demo\n");
 }
